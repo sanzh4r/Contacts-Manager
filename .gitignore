@@ -1,0 +1,78 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Contacts (Kotlin)/*
+!/Contacts (Kotlin)/task/
+/Contacts (Kotlin)/task/*
+!/Contacts (Kotlin)/task/src
+
+# Project exclude paths
+/Topics/For loop and arrays/Check the numbers/out/
+/Topics/For loop and arrays/Check the numbers/out/production/classes/
+/Topics/For loop and arrays/Counting/out/
+/Topics/For loop and arrays/Counting/out/production/classes/
+/Topics/For loop and arrays/Cyclically shifting elements/out/
+/Topics/For loop and arrays/Cyclically shifting elements/out/production/classes/
+/Topics/For loop and arrays/Down to/out/
+/Topics/For loop and arrays/Down to/out/production/classes/
+/Topics/For loop and arrays/Is it here/out/
+/Topics/For loop and arrays/Is it here/out/production/classes/
+/Topics/For loop and arrays/Iteration/out/
+/Topics/For loop and arrays/Iteration/out/production/classes/
+/Topics/For loop and arrays/Step/out/
+/Topics/For loop and arrays/Step/out/production/classes/
+/Topics/For loop and arrays/Theory/out/
+/Topics/For loop and arrays/Theory/out/production/classes/
+/Topics/Getting substrings/Case insensitive/out/
+/Topics/Getting substrings/Case insensitive/out/production/classes/
+/Topics/Getting substrings/Crash your app/out/
+/Topics/Getting substrings/Crash your app/out/production/classes/
+/Topics/Getting substrings/Exchange/out/
+/Topics/Getting substrings/Exchange/out/production/classes/
+/Topics/Getting substrings/From A to B/out/
+/Topics/Getting substrings/From A to B/out/production/classes/
+/Topics/Getting substrings/Get the world/out/
+/Topics/Getting substrings/Get the world/out/production/classes/
+/Topics/Getting substrings/Theory/out/
+/Topics/Getting substrings/Theory/out/production/classes/
+/Topics/Processing strings/Compression algorithm/out/
+/Topics/Processing strings/Compression algorithm/out/production/classes/
+/Topics/Processing strings/Create a euphonious word/out/
+/Topics/Processing strings/Create a euphonious word/out/production/classes/
+/Topics/Processing strings/Determine the output/out/
+/Topics/Processing strings/Determine the output/out/production/classes/
+/Topics/Processing strings/Determine the value/out/
+/Topics/Processing strings/Determine the value/out/production/classes/
+/Topics/Processing strings/Move the first N characters/out/
+/Topics/Processing strings/Move the first N characters/out/production/classes/
+/Topics/Processing strings/Palindrome/out/
+/Topics/Processing strings/Palindrome/out/production/classes/
+/Topics/Processing strings/Parse url/out/
+/Topics/Processing strings/Parse url/out/production/classes/
+/Topics/Processing strings/The lucky ticket/out/
+/Topics/Processing strings/The lucky ticket/out/production/classes/
+/Topics/Processing strings/Theory/out/
+/Topics/Processing strings/Theory/out/production/classes/
+/Topics/Regexps in use/Aaaaaaa to a/out/
+/Topics/Regexps in use/Aaaaaaa to a/out/production/classes/
+/Topics/Regexps in use/Camels vs. snakes/out/
+/Topics/Regexps in use/Camels vs. snakes/out/production/classes/
+/Topics/Regexps in use/Limit/out/
+/Topics/Regexps in use/Limit/out/production/classes/
+/Topics/Regexps in use/Nickname parser/out/
+/Topics/Regexps in use/Nickname parser/out/production/classes/
+/Topics/Regexps in use/Sike, that's the wrong number/out/
+/Topics/Regexps in use/Sike, that's the wrong number/out/production/classes/
+/Topics/Regexps in use/Theory/out/
+/Topics/Regexps in use/Theory/out/production/classes/
+/Topics/Regexps in use/Web colors/out/
+/Topics/Regexps in use/Web colors/out/production/classes/
